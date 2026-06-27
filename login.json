@@ -1,8 +1,8 @@
 {
-    "url": "https://49.235.119.241/kai/swagger/login.yaml",
+    "url": "https://github.com/tiandeyiliushang-sudo/swagger/raw/refs/heads/main/login.yaml",
     "urls": [
         {
-            "url": "https://49.235.119.241/kai/swagger/login.yaml",
+            "url": "https://github.com/tiandeyiliushang-sudo/swagger/raw/refs/heads/main/login.yaml",
             "name": "Coffinxp"
         }
     ]
